@@ -80,7 +80,7 @@ Description: Containerized web app that uses AI to analyze symptoms and provide 
 Technology: Node.js, JavaScript, CSS, Docker, AI APIs, Git
 Role: Full-stack developer – built UI, integrated AI logic, containerized app
 
-🔗 GitHub Repository: MediScan AI Repo
+🔗 GitHub Repository:  https://github.com/MpiloG29/MediScan-AI
 
 
 SMART DATA MANAGER – PERFUME ANALYTICS
@@ -88,7 +88,7 @@ Description: Data cleaning, analysis, and visualization pipeline for perfume sal
 Technology: Python, Pandas, SQLite, Jupyter, Git
 Role: Data Engineer – cleaned data, performed analysis, documented workflow
 
-🔗 GitHub Repository: Lula App Repo
+🔗 GitHub Repository:  https://github.com/MpiloG29/Lula-App
 
 
 MULTI-CLOUD AI ASSISTANT PORTFOLIO
@@ -96,7 +96,7 @@ Description: Backend for AI portfolio app deployed across AWS and Azure
 Technology: Node.js, AWS, Azure, AI APIs, Cloud Architecture
 Role: Backend & Cloud Developer – integrated AI, managed multi-cloud deployment
 
-🔗 GitHub Repository: Multi-Cloud App
+🔗 GitHub Repository:  https://github.com/MpiloG29/multi-cloud-app-development
 
 
 AI ASSISTANT PROJECT
@@ -104,7 +104,7 @@ Description: Interactive AI assistant with chat interface and real-time response
 Technology: Node.js, JavaScript, AI APIs, WebSocket
 Role: Full-stack Developer – built chat interface, integrated AI services
 
-🔗 GitHub Repository: AI Assistant Project
+🔗 GitHub Repository:  https://github.com/MpiloG29/AI-Assistant-Project
 
 POWER APP – BUSINESS PROCESS AUTOMATION
 Description: Low-code app built with Microsoft Power Apps to streamline manual workflows
