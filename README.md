@@ -176,7 +176,7 @@ skills = {
 ## 📄 **Resume & Portfolio**
 
 📥 **[Download My Resume](#)**   
-🌐 **[View Live Portfolio](https://https://mpilog29.github.io/)**  
+🌐 **[View Live Portfolio](https://mpilog29.github.io/)**  
 📁 **[All Projects](https://github.com/MpiloG29?tab=repositories)**
 
 ---
