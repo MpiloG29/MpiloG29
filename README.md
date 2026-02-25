@@ -1,13 +1,11 @@
   # 🚀 **Celimpilo Gumede**  
-### **Machine Learning Engineer | Data Engineer | Mathematics Graduate**
+### **Data Analysts | Data Engineer | Mechine Learning**
 
 ---
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=MpiloG29&color=brown&style=flat-square)
-  ![GitHub Followers](https://img.shields.io/github/followers/MpiloG29?style=social)
-  ![GitHub Stars](https://img.shields.io/github/stars/MpiloG29?style=social)
+
   
   ---
   
@@ -24,40 +22,35 @@
 
 ## 👨‍💻 **About Me**
 
-🎓 **BSc Mathematics & Applied Mathematics Graduate** | University of KwaZulu-Natal  
-🔬 **Specializing in:** Machine Learning, Data Engineering, Cloud Computing & AI Solutions  
-📚 **Certified in:** Data Engineering (92%), Cloud & DevOps (78%), Foundations of AI (74%)  
-📍 **Based in:** Johannesburg, South Africa  
-🎯 **Currently seeking:** Internship/Entry-level roles in ML Engineering, Data Engineering & Quantitative Analysis  
-
+A Medical Physics and Mathematics graduate, now an Aspiring Data Engineer with a passion for solving real-world problems through data, cloud technologies, and machine learning. My academic journey at the University of KwaZulu-Natal, combined with specialized certifications in Data Engineering, Data Science, and AI, has provided a strong foundation in both theoretical principles and practical application. Currently interning as a Data Engineer at Capaciti, I build and optimize ETL pipelines, integrate cloud services (AWS, Azure), and contribute to data-driven projects. My background in medical physics has sharpened my analytical thinking and precision, which I apply to developing AI-powered applications and creating insightful visualizations. I am actively seeking internship or entry-level opportunities in Data Engineering, Data Science, Machine Learning, or AI where I can contribute, grow, and make a meaningful impact.
 I'm passionate about building AI-driven systems that solve real-world problems, with a strong foundation in mathematical modeling and scalable cloud architecture. I thrive on turning complex datasets into actionable insights and production-ready solutions.
 
 ---
 
-## 🛠 **Technical Stack**
+##  Technical Stack
 
-### **🤖 Machine Learning & AI**
+###  Machine Learning & AI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![AI APIs](https://img.shields.io/badge/AI_APIs-008080?style=flat-square&logo=openai&logoColor=white)
 
-### **☁️ Cloud & DevOps**
+###  Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-5C2D91?style=flat-square&logo=github-actions&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-### **📊 Data Engineering**
+###  Data Engineering
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
 ![ETL/ELT](https://img.shields.io/badge/ETL/ELT-008080?style=flat-square&logo=apache&logoColor=white)
 ![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-FF6B35?style=flat-square&logo=snowflake&logoColor=white)
 
-### **💻 Programming & Tools**
+###  Programming & Tools
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -94,9 +87,6 @@ AI-powered health analytics platform for patient risk assessment with cardiovasc
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MpiloG29&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=brown&icon_color=brown)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MpiloG29&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=brown&text_color=ffffff)
   
   ![GitHub Streak](https://streak-stats.demolab.com/?user=MpiloG29&theme=radical&hide_border=true&background=0d1117&stroke=brown&ring=brown&fire=brown&currStreakLabel=brown)
   
@@ -106,11 +96,19 @@ AI-powered health analytics platform for patient risk assessment with cardiovasc
 
 ## 🏆 **Certifications**
 
-| Certification | Score | Date | Badge |
-|--------------|-------|------|-------|
-| **Data Engineering Mastery** | 92% (46/50) | Dec 2025 | ![Data Engineering](https://img.shields.io/badge/Data_Engineering-92%25-brightgreen) |
-| **Cloud & DevOps Engineering** | 78% (39/50) | Dec 2025 | ![Cloud DevOps](https://img.shields.io/badge/Cloud_DevOps-78%25-orange) |
-| **Foundations of Artificial Intelligence** | 74% (37/50) | Dec 2025 | ![AI Foundations](https://img.shields.io/badge/AI_Foundations-74%25-yellow) |
+Certifications:
+
+Data Engineer Practitioner (SFIA), Coursera (Issued Feb 2026 | ID: IqohjitcR96qIY4rXLfe-g)
+
+
+Achievements:
+
+Mathematics Department Award for Applied Mathematics (2024)
+
+Dean's List for Academic Excellence (2023, 2024)
+
+Recognized for improving student outcomes through innovative teaching methods.
+
 
 ---
 
@@ -133,27 +131,24 @@ AI-powered health analytics platform for patient risk assessment with cardiovasc
 
 ## 🌟 **Featured Skills Matrix**
 
-\`\`\`python
-skills = {
-    "machine_learning": ["Deep Learning", "TensorFlow", "PyTorch", "AI APIs"],
-    "cloud_devops": ["AWS", "Azure", "Docker", "CI/CD", "Kubernetes"],
-    "data_engineering": ["ETL/ELT", "Data Warehousing", "Apache Spark", "SQL"],
-    "programming": ["Python", "Java", "JavaScript", "Node.js", "Git"],
-    "analytics": ["Statistical Modeling", "Quantitative Analysis", "Data Visualization"],
-    "soft_skills": ["Problem-solving", "Teamwork", "Communication", "Adaptability"]
-}
-\`\`\`
+Programming & Tools: Python, SQL, Java, JavaScript, Git, Docker, FastAPI, Spring Boot, Express.js
+
+Data Engineering & Analytics: ETL/ELT, Data Warehousing, Apache Spark, PostgreSQL, MySQL, MongoDB, Power BI, Tableau, Matplotlib, Seaborn
+
+Machine Learning & AI: Regression, Neural Networks, NLP, Image Recognition, Chatbots, OpenAI APIs, LangChain, RAG Systems
+
+Quantitative Analysis: Statistical Modeling, Hypothesis Testing, A/B Testing, Predictive Analytics, Time-Series Forecasting
 
 ---
 
 ## 🎯 **Currently Working On**
 
-- 🔭 Enhancing Smart City IoT Pipeline with real-time analytics
-- 🌱 Learning advanced ML techniques and MLOps
-- 👯 Open to collaboration on AI/Data Engineering projects
-- 💬 Ask me about Data Pipelines, Cloud Architecture, or ML Deployment
-- 📫 How to reach me: celimpilog200@gmail.com
-- ⚡ Fun fact: I approach coding problems like mathematical proofs
+-  Enhancing Smart City IoT Pipeline with real-time analytics
+-  Learning advanced ML techniques and MLOps
+-  Open to collaboration on AI/Data Engineering projects
+-  Ask me about Data Pipelines, Cloud Architecture, or ML Deployment
+-  How to reach me: celimpilog200@gmail.com
+-  Fun fact: I approach coding problems like mathematical proofs
 
 ---
 
