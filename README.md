@@ -1,186 +1,110 @@
-  # 🚀 **Celimpilo Gumede**  
-### **Data Analysts | Data Engineer | Mechine Learning**
+# Celimpilo Gumede
+
+## Data Engineer | Mechine Learning | SQL/ETL Developer | AI Engineer
+
+Transforming complex data into intelligent solutions through mathematics, machine learning, and scalable cloud architecture.
+
+- **https://mpilog29.github.io/**
+- **www.linkedin.com/in/celimpilo-gumede-b5540522b**
+- **celimpilog200@gmail.com**
+- **https://github.com/MpiloG29**
 
 ---
 
-<div align="center">
-  
+### About
 
-  
-  ---
-  
-  **"Transforming complex data into intelligent solutions through mathematics, machine learning, and scalable cloud architecture."**
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-8B4513?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mpilog29.github.io/portfolio)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:celimpiloq200@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MPiloo29)
-
-</div>
+Mathematics and Applied Mathematics graduate with specialized certifications in Data Engineering, Machine Learning, and Artificial Intelligence. Currently interning as a Data Engineer at Capaciti, building and optimizing ETL pipelines using Apache Spark, Airflow, and cloud platforms (AWS, Azure). Passionate about solving real-world problems through data, cloud technologies, and machine learning.
 
 ---
 
-## 👨‍💻 **About Me**
+### Technical Skills
 
-A Medical Physics and Mathematics graduate, now an Aspiring Data Engineer with a passion for solving real-world problems through data, cloud technologies, and machine learning. My academic journey at the University of KwaZulu-Natal, combined with specialized certifications in Data Engineering, Data Science, and AI, has provided a strong foundation in both theoretical principles and practical application. Currently interning as a Data Engineer at Capaciti, I build and optimize ETL pipelines, integrate cloud services (AWS, Azure), and contribute to data-driven projects. My background in medical physics has sharpened my analytical thinking and precision, which I apply to developing AI-powered applications and creating insightful visualizations. I am actively seeking internship or entry-level opportunities in Data Engineering, Data Science, Machine Learning, or AI where I can contribute, grow, and make a meaningful impact.
-I'm passionate about building AI-driven systems that solve real-world problems, with a strong foundation in mathematical modeling and scalable cloud architecture. I thrive on turning complex datasets into actionable insights and production-ready solutions.
+**Data Engineering:** ETL/ELT Pipeline Development, Apache Spark, Airflow, dbt, Data Warehousing, Kafka
 
----
+**Databases & SQL:** PostgreSQL, MySQL, MongoDB, Snowflake, Data Modeling, Query Optimization, RDBMS
 
-##  Technical Stack
+**Programming:** Python, SQL, Java, PySpark, FastAPI, Git, Docker
 
-###  Machine Learning & AI
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![AI APIs](https://img.shields.io/badge/AI_APIs-008080?style=flat-square&logo=openai&logoColor=white)
+**Cloud Platforms:** AWS (S3, Lambda), Azure (Data Lake, Synapse)
 
-###  Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-5C2D91?style=flat-square&logo=github-actions&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+**Machine Learning & AI:** Regression, Neural Networks, NLP, LangChain, RAG Systems, OpenAI APIs
 
-###  Data Engineering
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
-![ETL/ELT](https://img.shields.io/badge/ETL/ELT-008080?style=flat-square&logo=apache&logoColor=white)
-![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-FF6B35?style=flat-square&logo=snowflake&logoColor=white)
-
-###  Programming & Tools
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=flat-square&logo=powerapps&logoColor=white)
+**Data Visualization:** Power BI, Tableau, Matplotlib, Seaborn
 
 ---
 
-## 🚀 **Featured Projects**
+### Featured Projects
 
-### **🏙️ Smart City IoT Pipeline**
-![GitHub stars](https://img.shields.io/github/stars/MpiloG29/smart-city-iot-pipeline?style=social)
-![GitHub forks](https://img.shields.io/github/forks/MpiloG29/smart-city-iot-pipeline?style=social)
+**Weather Data Pipeline** — Automated ETL pipeline for real-time weather data ingestion using Apache Spark and Airflow.
+- [GitHub](https://github.com/MpiloG29/Weather-Data-Pipeline-Project) | [Live Demo](https://weather-data-pipeline-project-2jxz.onrender.com)
 
-Real-time IoT monitoring system for Johannesburg with live dashboard visualization, alert systems, and predictive analytics for urban management.
+**Smart City IoT Pipeline** — Real-time streaming analytics platform processing IoT sensor data with anomaly detection.
+- [GitHub](https://github.com/MpiloG29/smart-city-iot-pipeline) | [Live Demo](https://smart-city-iot-pipeline-s9vn.onrender.com/)
 
-**Tech:** Python, AWS, IoT, Docker, Data Pipeline  
-[![View Project](https://img.shields.io/badge/View_Project-8B4513?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MpiloG29/smart-city-iot-pipeline)
+**Energy Consumption Pipeline** — End-to-end data pipeline for energy consumption forecasting with interactive dashboards.
+- [GitHub](https://github.com/MpiloG29/Energy-Consumption-Pipeline) | [Live Demo](https://energy-consumption-dashboard-eo9o.onrender.com/)
 
----
+**Bright DE AI Assistant** — LLM-powered assistant for data engineering education with RAG and multilingual search.
+- [GitHub](https://github.com/MpiloG29/bright-de-ai-assistant) | [Live Demo](https://mpilog29.github.io/bright-de-ai-assistant/)
 
-### **🏥 HealthSync Analytics**
-![GitHub stars](https://img.shields.io/github/stars/MpiloG29/healthsync-analytics?style=social)
-![GitHub forks](https://img.shields.io/github/forks/MpiloG29/healthsync-analytics?style=social)
-
-AI-powered health analytics platform for patient risk assessment with cardiovascular risk prediction and real-time health monitoring.
-
-**Tech:** Machine Learning, Azure, Python, FastAPI, Power BI  
-[![View Project](https://img.shields.io/badge/View_Project-8B4513?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MpiloG29/healthsync-analytics)
+**Multilingual Bible AI** — AI-powered Bible study assistant with multilingual search and natural language understanding.
+- [GitHub](https://github.com/MpiloG29/MultilingualBibleAI) | [Live Demo](https://mpilog29.github.io/MultilingualBibleAI/)
 
 ---
 
-## 📈 **GitHub Stats**
+### Experience
 
-<div align="center">
-  
-  
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=MpiloG29&theme=radical&hide_border=true&background=0d1117&stroke=brown&ring=brown&fire=brown&currStreakLabel=brown)
-  
-</div>
+**Data Engineering Intern** — Capaciti | Jan 2026 - Present
+- Build and optimize ETL pipelines using Apache Spark and Airflow processing 1M+ records daily
+- Leverage AWS and Azure for scalable data storage and processing solutions
+- Conduct quantitative performance analysis of pipeline efficiency and implement optimizations
 
----
-
-## 🏆 **Certifications**
-
-Certifications:
-
-Data Engineer Practitioner (SFIA), Coursera (Issued Feb 2026 | ID: IqohjitcR96qIY4rXLfe-g)
-
-
-Achievements:
-
-Mathematics Department Award for Applied Mathematics (2024)
-
-Dean's List for Academic Excellence (2023, 2024)
-
-Recognized for improving student outcomes through innovative teaching methods.
-
+**Mathematics Tutor** — University of KwaZulu-Natal | 2023 - 2024
+- Tutored 200+ students in Calculus, Linear Algebra, and Statistics
+- Created Python-based visualizations to simplify quantitative concepts
+- Improved student pass rates by 25% through tailored data-driven teaching methods
 
 ---
 
-## 📫 **Connect With Me**
+### Education
 
-<div align="center">
-  
-  [![Portfolio Website](https://img.shields.io/badge/🌐_Portfolio-8B4513?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mpilog29.github.io/portfolio)
-  [![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:celimpiloq200@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celimpilo-gumede)
-  [![Phone](https://img.shields.io/badge/📞_Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+27791825118)
-  
-  **📍 Johannesburg, South Africa**  
-  **📧 celimpilog200@gmail.com**  
-  **📱 +27 79 182 5118**
-  
-</div>
+**Bachelor of Science (Mathematics & Applied Mathematics)**
+University of KwaZulu-Natal | 2022 - 2025
+- Dean's List: 2023, 2024
+- Mathematics Department Award for Applied Mathematics (2024)
 
 ---
 
-## 🌟 **Featured Skills Matrix**
+### Certifications
 
-Programming & Tools: Python, SQL, Java, JavaScript, Git, Docker, FastAPI, Spring Boot, Express.js
+IBM Data Engineering Capstone Project (2026)
 
-Data Engineering & Analytics: ETL/ELT, Data Warehousing, Apache Spark, PostgreSQL, MySQL, MongoDB, Power BI, Tableau, Matplotlib, Seaborn
+IBM Machine Learning with Apache Spark (2026)
 
-Machine Learning & AI: Regression, Neural Networks, NLP, Image Recognition, Chatbots, OpenAI APIs, LangChain, RAG Systems
+IBM Generative AI: Elevate your Data Engineering Career (2026)
 
-Quantitative Analysis: Statistical Modeling, Hypothesis Testing, A/B Testing, Predictive Analytics, Time-Series Forecasting
+Meta Advanced Data Modeling (2026)
 
----
+IBM Introduction to NoSQL Databases (2026)
 
-## 🎯 **Currently Working On**
+IBM ETL and Data Pipelines with Shell, Airflow and Kafka (2026)
 
--  Enhancing Smart City IoT Pipeline with real-time analytics
--  Learning advanced ML techniques and MLOps
--  Open to collaboration on AI/Data Engineering projects
--  Ask me about Data Pipelines, Cloud Architecture, or ML Deployment
--  How to reach me: celimpilog200@gmail.com
--  Fun fact: I approach coding problems like mathematical proofs
+IBM Data Warehouse Fundamentals (2026)
 
----
+IBM BI Dashboards with IBM Cognos Analytics and Google Looker (2026)
 
-<div align="center">
-  
-  ### ⭐ **Star my repositories if you find them interesting!**
-  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Mathematics%20is%20the%20language%20in%20which%20God%20has%20written%20the%20universe&author=Galileo%20Galilei)
-  
-  ---
-  
-  **"Code is like humor. When you have to explain it, it's bad." – Cory House**
-  
-  [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMpiloG29&label=VISITORS&countColor=%23697689&style=flat-square)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FMpiloG29)
-  
-</div>
+Google Cloud Introduction to Generative AI (2025)
+
+IBM Databases and SQL for Data Science with Python (2026)
+
+IBM Relational Database Administration (DBA) (2026)
 
 ---
 
-## 📄 **Resume & Portfolio**
+### Contact
 
-📥 **[Download My Resume](#)**   
-🌐 **[View Live Portfolio](https://mpilog29.github.io/)**  
-📁 **[All Projects](https://github.com/MpiloG29?tab=repositories)**
+Johannesburg, South Africa
 
----
+| +27 791 825 118 | celimpilog200@gmail.com
 
-<div align="center">
-  
-  **Thank you for visiting my profile!**  
-  *Let's build intelligent solutions together.*
-  
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=brown&height=100&section=footer)
-  
-</div>
+[github.com/MpiloG29](https://github.com/MpiloG29) | [linkedin.com/in/celimpilo-gumede](https://www.linkedin.com/in/celimpilo-gumede-b5540522b/)
